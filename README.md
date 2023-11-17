@@ -16,6 +16,7 @@ Executing program
 (1) Cloning the github repository :
 
 git clone https://github.com/Spydiecy/Function-Frontend-Metacrafters.git
+
 (2) Install the required dependencies
 
 cd frontend-ATN
